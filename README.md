@@ -69,22 +69,18 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-1. Before you go ahead with this React tutorial, please make sure you have:
+1. Before you go ahead with this Ruby tutorial, please make sure you have:
 
-- Basic understanding of HTML and CSS.
-- JavaScript fundamentals (object, array, conditionals etc).
-- Familiarity with JavaScript ES6 features (class syntax, arrow functions, object destructuring etc).
+- Basic understanding of basic Ruby concepts.
+- Ruby fundamentals (classes, modules, blocks, etc).
 
-2. [Node and npm](https://nodejs.org/en/download/) are installed. Here are the versions I'll be using while making this tutorial:
+2. [Ruby](https://rubyinstaller.org/downloads/) are installed. Here are the versions I'll be using while making this tutorial:
 
     ```shell
-    $ node --version
-    v16.13.2
-
-    $ npm --version
-    8.1.2
+    $ ruby --version
+    ruby 3.1.3p185 (2022-11-24 revision 1a6b16756e) [x64-mingw-ucrt]
     ```
-    > Installing npm adds two commands to the system—`npm` and `npx`—both of which I'll be using while making this tutorial.
+    > Installing ruby add the command to the system—`irb` which we'll be using while making this tutorial.
 
 3. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) is installed. Here's the version I'll be using while making this tutorial:
 
