@@ -11,6 +11,3 @@ class MyList
     @list.each(&block)
   end
 end
-
-list = MyList.new(1, 2, 3, 4, 5)
-puts list.all? { |item| item < 10 }
